@@ -1,3 +1,4 @@
+# Without using any external library 
 import math
 import copy
 import csv
