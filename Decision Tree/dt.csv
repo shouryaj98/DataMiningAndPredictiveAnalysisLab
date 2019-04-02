@@ -1,0 +1,13 @@
+play,weak,hot,sunny,high
+play,strong,hot,sunny,high
+stay,weak,hot,rain,high
+play,weak,mid,overcast,high
+stay,strong,cold,rain,normal
+play,weak,cold,overcast,normal
+stay,strong,cold,rain,normal
+play,weak,mid,sunny,normal
+play,weak,cold,sunny,normal
+play,strong,mid,overcast,normal
+stay,weak,mid,sunny,high
+stay,strong,mid,rain,high
+play,weak,hot,overcast,normal
