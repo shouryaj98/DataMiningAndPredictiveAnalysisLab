@@ -1,4 +1,5 @@
 # Without using any external library 
+# Only works for dataset having categorical attributes and the first column is the class label
 import math
 import copy
 import csv
