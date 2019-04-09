@@ -42,7 +42,6 @@ for i in f:
 f.close()
             
 print("c 1- ",c1)
-cp = copy.deepcopy(c1)
 l = prune(c1,mins)
 print("l 1",l)
 countt = 2
